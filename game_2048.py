@@ -154,3 +154,5 @@ elif command == 2:
 	right()
 elif command == 3:
 	down()
+	
+#Problem : https://open.kattis.com/problems/2048
